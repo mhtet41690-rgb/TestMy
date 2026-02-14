@@ -1,0 +1,6 @@
+__pycache__/
+wgcf
+wgcf-account.toml
+*.conf
+*.png
+.env
